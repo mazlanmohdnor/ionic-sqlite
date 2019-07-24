@@ -1,5 +1,7 @@
 {
   "name": "sqlite",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
